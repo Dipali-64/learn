@@ -4,7 +4,7 @@ anotherFriend = 'Chaitali'
 
 print("Hello," + name)
 
-# apple = "he said, \"I want to eat an appple"
+# apple = "he said, \"I want to eat an appple\""
 # apple = "he said, 'I want to eat an apple'"
 # print(apple)
 
